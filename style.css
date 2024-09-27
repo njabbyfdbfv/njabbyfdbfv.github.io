@@ -1,7 +1,7 @@
 p{
     color:rgb(41, 12, 146);
-    font-size:medium ;
-    font: weight 500px;;
+    font-size: medium;
+    font: larger 500px;;
 }
 body{
 background-color:rgb(153, 165, 100);
@@ -11,4 +11,10 @@ background-color:rgb(153, 165, 100);
 div
 {
 max-width: 500px;
+}
+
+
+#tytul
+{
+font-size: xx-large;
 }

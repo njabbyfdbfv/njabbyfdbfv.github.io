@@ -1,10 +1,10 @@
 p{
-    color:rgb(41, 12, 146);
+    color:rgb(102, 91, 70);
     font-size: medium;
     font: larger 500px;;
 }
 body{
-background-color:rgb(153, 165, 100);
+background-color:rgb(210, 210, 224);
 }
 
 
@@ -17,4 +17,23 @@ max-width: 500px;
 #tytul
 {
 font-size: xx-large;
+}
+
+
+h1
+
+{
+font-size: 50px;
+}
+
+img
+
+{
+    width:600px
+}
+
+p
+
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
